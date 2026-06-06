@@ -1,4 +1,4 @@
-## Last documentation sync: Fri Jun  5 07:37:38 UTC 2026
+## Last documentation sync: Sat Jun  6 07:11:06 UTC 2026
 
 ## Synced repositories:
 - [RooCodeInc/Roo-Code-Docs](https://github.com/RooCodeInc/Roo-Code-Docs)
